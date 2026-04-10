@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gonçalo Lima</h1>
-<h3 align="center">Student @ Universidade de Aveiro</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goncalolima71&theme=flat&no-frame=true&margin-w=15&ignore_cache=1" alt="Trophies" />
-</p>
+<h1 align="center">Hey, I'm Gonçalo Lima</h1>
+<h3 align="center">Student at Universidade de Aveiro</h3>
 
 ---
 
 ## 🎓 Education & About Me
 - 🧑‍💻 Currently in my **1st year of the Master's degree in Computer and Telematics Engineering** at Universidade de Aveiro.
 - 🎓 Holds a Bachelor's degree in **Computer and Informatics Engineering** from Universidade de Aveiro.
+- 📫 How to reach me: goncalobsflima44@gmail.com
 
 ---
 
@@ -68,6 +65,5 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goncalolima71&layout=compact&ignore_cache=1" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalolima71&ignore_cache=1" alt="GitHub Streak" />
 </p>
